@@ -59,3 +59,5 @@ See [HaikuPorts](https://github.com/haikuports/haikuports/).
 
 ### Contributing to our infrastructure
 See [Infrastructure](https://github.com/haiku/infrastructure/).
+
+<img src="52ecc2c0a55cf6e89208c4820d2d75d9.jpg">
